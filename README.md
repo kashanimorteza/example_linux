@@ -65,26 +65,26 @@
 <!---------------------------------------Organization-->
 <br><br><br>
 
-### <span class="red">Organization</span>
+## <span class="red">Organization</span>
     GNU - FSF  -  OSI  -  CC  -  RFC
 
 <!---------------------------------------Standard-->
 <br><br><br>
 
-### <span class="red">Standard</span>
+## <span class="red">Standard</span>
     Posix | Ventory
 
 <!---------------------------------------Licence & Software Types-->
 <br><br><br>
 
-### <span class="red">Licence & Software Types</span>
+## <span class="red">Licence & Software Types</span>
     Commercial  -  Shareware  -  Freeware  -  Open Source
     GPL
 
 <!---------------------------------------Evidence-->
 <br><br><br>
 
-### <span class="red">Evidence</span>
+## <span class="red">Evidence</span>
 <div><span class="blue">Certification</span> : <span>LPI | LPIC-1 | LPIC-2 | LPIC-3</span></div>
 <div><span class="blue">Wetsite</span> : <span>
 <a href="http://Lpi.org" target="_blank">Lpi</a> - <a href="http://lpimarketplace.com" target="_blank">lpimarketplace</a> - <a href="http://Gratisexam.com" target="_blank">Gratisexam</a> - <a href="http://ibm.com/developerworks/library/l-lpic1-map/" target="_blank">ibm</a>
