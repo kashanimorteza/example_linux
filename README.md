@@ -1,5 +1,5 @@
 <!----------------------------------------------------------------------------------[Diagram]-->
-<div align="left"><img src="https://github.com/kashanimorteza/linux/blob/main/diagram/linux.jpeg"></div>
+<div align="left"><img src="https://github.com/kashanimorteza/example_linux/blob/main/diagram/linux.jpeg"></div>
 
 <!----------------------------------------------------------------------------------[Subject]-->
 <a href="#basic">Basic</a> - 
