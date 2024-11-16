@@ -1,42 +1,7 @@
-<!----------------------------------------------------------------------------------[Diagram]-->
+<!------------------------------------------------------------------- [ Basic ] --->
+<!---------------------------------------Diagram-->
+## Diagram
 <div align="left"><img src="https://github.com/kashanimorteza/example_linux/blob/main/diagram/linux.jpeg"></div>
-
-<!----------------------------------------------------------------------------------[Subject]-->
-<a href="#basic">Basic</a> - 
-<a href="#link">Link</a> - 
-<a href="#note">Note</a>
-
-<a href="#boot">Boot</a> - 
-<a href="#kernel">Kernel</a> - 
-<a href="#init">Init</a> - 
-<a href="#device-manager--udevd">udevd</a> - 
-<a href="#event-logging--journald">journald</a> -
-<a href="#user-manager--logind">logind</a> -
-<a href="#network-manager--networkd">networkd</a> -
-<a href="#time-manager--timedated">timedated</a> -
-<a href="#boot-manager--systemd-boot">Systemd-boot</a> -
-<a href="#security--iptables">iptables</a>
-
-<a href="#disk">Disk</a> -
-<a href="#ram">Ram</a> -
-<a href="#file">File</a>
-
-<a href="#runlevel">Runlevel</a> -
-<a href="#shell">Shell</a> -
-<a href="#variable">Variable</a> - 
-<a href="#process">Process</a>
-
-<a href="#library">Library</a> - 
-<a href="#package-manager-system-pms">PMS</a> -
-<a href="#virtualization">Virtualization</a> -
-<a href="#graphic">Graphic</a> 
-
-
-
-<!-----------------------------------------------------------Basic----------------------------------------------------------->
-<div class="md3"></div>
-
-## Basic
 
 <!---------------------------------------Resource-->
 #### <span class="red">Resource</span>
