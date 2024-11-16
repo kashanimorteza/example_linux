@@ -82,13 +82,12 @@
 <br><br><br>
 
 ## Subjects
-<a href="https://github.com/kashanimorteza/example_linux/blob/main/install.md" target="_blank">Install</a>
-<a href="https://github.com/kashanimorteza/example_linux/blob/main/config.md" target="_blank">Config</a>
-<a href="https://github.com/kashanimorteza/example_linux/blob/main/debian.md" target="_blank">Debian</a>
-
-<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Boot</a>
-<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Kernel</a>
-<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Init</a>
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/install.md" target="_blank">Install</a><br>
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/config.md" target="_blank">Config</a><br>
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/debian.md" target="_blank">Debian</a><br>
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Boot</a><br>
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Kernel</a><br>
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Init</a><br>
 
 
 
