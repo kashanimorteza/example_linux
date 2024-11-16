@@ -9,7 +9,13 @@
 ## Resource
 
 #### Base
-<a href="http://www.kernel.org/" target="_blank">kernel.org</a> - <a href="http://www.kernel.org/" target="_blank">kernel.org</a>
+<a href="http://www.kernel.org/" target="_blank">kernel.org</a> - <a href="http://www.gnu.org/" target="_blank">gnu</a> - <a href="http://www.distrowatch.com/" target="_blank">distrowatch</a
+
+#### Graphic
+<a href="http://x.org " target="_blank">x</a> - <a href="http://kde.org " target="_blank">kde</a> - <a href="http://gnome.org " target="_blank">gnome</a>
+
+#### Tools
+<a href="http://putty.org" target="_blank">putty</a> - <a href="http://openwrt.org" target="_blank">openwrt</a>
 
 <table border="0" align="center" valign="top"><tbody><tr>
     <!-- td 1 -->
@@ -17,7 +23,7 @@
         <table><tbody>
             <tr><td align="center" bgcolor="D1ECCF">Link</td><td align="center" bgcolor="D1ECCF">Description</td></tr>        
             <tr><td align="center"><a href="http://www.kernel.org/" target="_blank">kernel.org</a></td><td>Linux Kernel</td></tr>
-            <tr><td align="center"><a href="http://www.gnu.org/" target="_blank">gnu</a></td><td>Linux Kernel</td></tr>
+            <tr><td align="center"></td><td>Linux Kernel</td></tr>
             <tr><td align="center"><a href="http://www.linux.com/" target="_blank">linux</a></td><td>Linux Kernel</td></tr>
             <tr><td align="center"><a href="http://Opensource.com" target="_blank">Opensource</a></td><td>Linux Kernel</td></tr>
             <tr><td align="center"><a href="http://x.org " target="_blank">x</a></td><td>Linux Kernel</td></tr>
