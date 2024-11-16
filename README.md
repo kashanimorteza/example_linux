@@ -78,6 +78,13 @@
 
 
 
+<!------------------------------------------------------------------- [ Subjects ] --->
+<br><br><br>
+
+## Subjects
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Boot</a>
+
+
 
 <!------------------------------------------------------------------- [ Link ] --->
 <br><br><br>
@@ -86,7 +93,7 @@
 
 <div class="" align="left" dir="rtl">
 <a href="https://unix.stackexchange.com/questions/620323/iptables-route-for-returning-incoming-traffic-back-out-of-originating-interfac" target="_blank">iptables-route</a> - 
-<a href="https://superuser.com/questions/1242284/use-iptables-nat-to-redirect-gateway-for-lan-pcs" target="_blank">iptables-nat</a> - 
+<a href="https://superuser.com/questions/1242284/use-iptables-nat-to-redirect-gateway-for-lan-pcs" target="_blank">iptables-nat</a>
 
 
 <!------------------------------------------------------------------- [ Note ] --->
