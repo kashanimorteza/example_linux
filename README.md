@@ -82,7 +82,15 @@
 <br><br><br>
 
 ## Subjects
+
+#### Booot
 <a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Boot</a>
+
+#### Kernel
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Kernel</a>
+
+#### Init
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Init</a>
 
 
 
