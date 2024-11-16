@@ -4,6 +4,8 @@
 <div align="left"><img src="https://github.com/kashanimorteza/example_linux/blob/main/diagram/linux.jpeg"></div>
 
 <!---------------------------------------Resource-->
+<br><br><br>
+
 #### <span class="red">Resource</span>
 <table border="0" align="center" valign="top"><tbody><tr>
     <!-- td 1 -->
@@ -41,34 +43,48 @@
 
 
 <!---------------------------------------Concept-->
-#### <span class="red">Concept</span>
+<br><br><br>
+
+## <span class="red">Concept</span>
     GNU limux OS = Linux kernel + GNU Software
     Hardware | Firmware | Software
     PCI | USB | GPIO | 
 
 <!---------------------------------------History-->
-#### <span class="red">History</span>
+<br><br><br>
+
+## <span class="red">History</span>
     Multics - Unix - Plan 9 - MINIX - BSD
 
 <!---------------------------------------Character-->
-#### <span class="red">Character</span>
+<br><br><br>
+
+## <span class="red">Character</span>
     Linus Torvalds - Richard Stallman
 
 <!---------------------------------------Organization-->
-#### <span class="red">Organization</span>
+<br><br><br>
+
+### <span class="red">Organization</span>
     GNU - FSF  -  OSI  -  CC  -  RFC
 
 <!---------------------------------------Standard-->
-#### <span class="red">Standard</span>
+<br><br><br>
+
+### <span class="red">Standard</span>
     Posix | Ventory
 
 <!---------------------------------------Licence & Software Types-->
-#### <span class="red">Licence & Software Types</span>
+<br><br><br>
+
+### <span class="red">Licence & Software Types</span>
     Commercial  -  Shareware  -  Freeware  -  Open Source
     GPL
 
 <!---------------------------------------Evidence-->
-#### <span class="red">Evidence</span>
+<br><br><br>
+
+### <span class="red">Evidence</span>
 <div><span class="blue">Certification</span> : <span>LPI | LPIC-1 | LPIC-2 | LPIC-3</span></div>
 <div><span class="blue">Wetsite</span> : <span>
 <a href="http://Lpi.org" target="_blank">Lpi</a> - <a href="http://lpimarketplace.com" target="_blank">lpimarketplace</a> - <a href="http://Gratisexam.com" target="_blank">Gratisexam</a> - <a href="http://ibm.com/developerworks/library/l-lpic1-map/" target="_blank">ibm</a>
@@ -78,7 +94,7 @@
 
 
 <!------------------------------------------------------------------- [ Link ] --->
-<div class="md1"></div>
+<br><br><br>
 
 ## Link
 
@@ -102,7 +118,7 @@
 
 
 <!------------------------------------------------------------------- [ Note ] --->
-<div class="md1"></div>
+<br><br><br>
 
 ## Note
 
