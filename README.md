@@ -19,7 +19,7 @@
 <a href="http://gnome.org" target="_blank">gnome.org</a>
 
 #### Tools
-<a href=" http://Linuxalt.com" target="_blank">Linuxalt.com</a> - 
+<a href="http://Linuxalt.com" target="_blank">Linuxalt.com</a> - 
 <a href="http://putty.org" target="_blank">putty.org</a>
 
 #### Document
