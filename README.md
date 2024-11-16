@@ -69,10 +69,12 @@
 <br><br><br>
 
 ## <span class="red">Evidence</span>
-<div><span class="blue">Certification</span> : <span>LPI | LPIC-1 | LPIC-2 | LPIC-3</span></div>
-<div><span class="blue">Wetsite</span> : <span>
+
+#### Certification
+    LPI | LPIC-1 | LPIC-2 | LPIC-3
+
+#### Wetsite 
 <a href="http://Lpi.org" target="_blank">Lpi</a> - <a href="http://lpimarketplace.com" target="_blank">lpimarketplace</a> - <a href="http://Gratisexam.com" target="_blank">Gratisexam</a> - <a href="http://ibm.com/developerworks/library/l-lpic1-map/" target="_blank">ibm</a>
-</span></div>
 
 
 
@@ -83,22 +85,8 @@
 ## Link
 
 <div class="" align="left" dir="rtl">
-
-<div class="md4">
 <a href="https://unix.stackexchange.com/questions/620323/iptables-route-for-returning-incoming-traffic-back-out-of-originating-interfac" target="_blank">iptables-route</a> - 
 <a href="https://superuser.com/questions/1242284/use-iptables-nat-to-redirect-gateway-for-lan-pcs" target="_blank">iptables-nat</a> - 
-<a href="aaaa" target="_blank">aaaa</a> - 
-<a href="aaaa" target="_blank">aaaa</a> - 
-<a href="aaaa" target="_blank">aaaa</a> - 
-<a href="aaaa" target="_blank">aaaa</a> - 
-<a href="aaaa" target="_blank">aaaa</a> - 
-</div>
-<div class="md4"></div>
-<div class="md4"></div>
-<div class="md4"></div>
-<div class="md4"></div>
-<div class="md4"></div>
-</div>
 
 
 <!------------------------------------------------------------------- [ Note ] --->
