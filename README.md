@@ -6,7 +6,11 @@
 <!---------------------------------------Resource-->
 <br><br><br>
 
-## <span class="red">Resource</span>
+## Resource
+
+#### Base
+<a href="http://www.kernel.org/" target="_blank">kernel.org</a> - <a href="http://www.kernel.org/" target="_blank">kernel.org</a>
+
 <table border="0" align="center" valign="top"><tbody><tr>
     <!-- td 1 -->
     <td valign="top">
