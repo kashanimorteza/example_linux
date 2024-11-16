@@ -88,7 +88,7 @@
 <a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Boot</a><br>
 <a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Kernel</a><br>
 <a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Init</a><br>
-
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Init</a><br>
 
 
 <!------------------------------------------------------------------- [ Link ] --->
