@@ -82,14 +82,11 @@
 <br><br><br>
 
 ## Subjects
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/install.md" target="_blank">Install</a>
+<a href="https://github.com/kashanimorteza/example_linux/blob/main/config.md" target="_blank">Config</a>
 
-#### Booot
 <a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Boot</a>
-
-#### Kernel
 <a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Kernel</a>
-
-#### Init
 <a href="https://github.com/kashanimorteza/example_linux/blob/main/boot.md" target="_blank">Init</a>
 
 
